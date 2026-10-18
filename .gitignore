@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.backup/
+*.rar
+*.zip
+*.log
+.env
+.env.*
+!.env.example
+public/models/*.gguf
+public/models/*.bin
+public/models/*.safetensors
